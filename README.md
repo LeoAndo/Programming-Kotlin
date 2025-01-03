@@ -1,4 +1,6 @@
-
+# 安藤メモ
+https://github.com/LeoAndo/Programming-Kotlin/tree/master/KotlinSample<br>
+にまとめる。IntelliJ IDEAプロジェクト。
 
 
 # Programming Kotlin
